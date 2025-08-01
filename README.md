@@ -21,12 +21,12 @@
 
 #### Languages & Fundamentals:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C,C++](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C,C++](https://img.shields.io/badge/-C,C++-00599C?style=for-the-badge&logo=C,C++&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![AI](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Power BI](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-CSS3-1572B6?logo=SQL&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/-AI-1572B6?logo=AI&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-1572B6?logo=Java&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/-PowerBI-1572B6?logo=PowerBI&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-1572B6?logo=SQL&logoColor=white&style=for-the-badge)
 
 #### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -49,10 +49,10 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mahek-lakhwani" target="_blank">
+  <a href="https://www.linkedin.com/in/Mahek Lakhwani" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="mailto:maheklakhwani99@gmail.com">
+  <a href="mailto:maheklakhwan789@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
