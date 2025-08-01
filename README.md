@@ -13,10 +13,4 @@ I am the first-year student of Computer Science Engineering passionate about cod
 - Exploring various programming languages and frameworks
 - Open to collaborating on beginner-friendly projects
 
-## Get in Touch
-- 📫 Reach me at: [your-email@example.com] (replace with your actual email)
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheklakhwani) (if you have one)
-
----
-
 Thank you for visiting my GitHub profile! Feel free to check out my repositories and reach out.
