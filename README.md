@@ -12,7 +12,7 @@
 - 🔭 I’m currently pursuing **B.Tech in Computer Science & Engineering** at DY Patil University
 - 🌱 I’m constantly learning **DSA, Web Development, and Cloud Computing**
 - ⚡ Fun Fact: I love solving real-world problems and turning coffee into code ☕
-- 💬 Ask me about **Python, HTML/CSS, Git, or your favorite debugging horror story**
+- 💬 Ask me about **Python , HTML/CSS , C , C++ , Java , AI Git*
 - 🧠 My motto: _"Learn, Build, Share, Repeat"_ 🔁
 
 ---
@@ -21,9 +21,9 @@
 
 #### Languages & Fundamentals:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C,C++](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![AI](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 
 #### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
