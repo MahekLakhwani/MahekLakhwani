@@ -17,7 +17,7 @@
 - **My Goal**: To become an engineer who builds impactful solutions !
 - Believer in Learning by doing , Mistakes are stepping stones !
 - Always curious and Improving.
-- Let's coonect and grow together !!
+- Let's connect and grow together !!
 
 ---
 ### Tools 
