@@ -9,10 +9,10 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently pursuing **B.Tech in Computer Science & Engineering** at DY Patil University
+- 🔭 I’m currently pursuing **B.Tech in Computer Science & Engineering** 
 - 🌱 I’m constantly learning **DSA, Web Development, and Cloud Computing**
 - ⚡ Fun Fact: I love solving real-world problems and turning coffee into code ☕
-- 💬 Ask me about **Python , HTML/CSS , C , C++ , Java , AI Git*
+- 💬 Ask me about *Python , HTML/CSS , C , C++ , Java , AI , Git*
 - 🧠 My motto: _"Learn, Build, Share, Repeat"_ 🔁
 
 ---
