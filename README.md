@@ -10,11 +10,11 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science & Engineering** 
-- 🌱 I’m constantly learning **DSA , Python , Web Development , and Cloud Computing**
+- 🌱 I’m constantly learning **DSA , Python , Web Development , Cyber Security , Cloud Computing**
 - ⚡ Fun Fact: I love solving real-world problems and turning coffee into code ☕
-- 💬 Ask me about *Python , HTML/CSS , C , C++ , Java , AI , Power BI , SQL *
+- 💬 Ask me about **Python , HTML/CSS , C , C++ , Java , AI , Power BI , SQL**
 - 🧠 My motto: _"Learn, Build, Share, Repeat"_ 🔁
-- My Goal: To become a engineer who builds impactful solutions!
+- **My Goal**: To become an engineer who builds impactful solutions !
 - Believer in Learning by doing , Mistakes are stepping stones !
 - Always curious and Improving.
 - Let's coonect and grow together !!
@@ -23,6 +23,8 @@
 ### Tools 
 
 - VS code , Git , GitHub .
+
+---
 
 ### 🚀 Tech Stack
 
@@ -73,7 +75,7 @@
 ---
 
 ### 📌 Fun GitHub Fact
-> Code is poetry written in logic !
+> **Code is poetry written in logic !**
 >  I'm not just pushing code — I'm pushing boundaries. Let's build something amazing!
 
 ---
