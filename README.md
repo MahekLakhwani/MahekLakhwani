@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Mahek Lakhwani 👋
 
-<!--
-**MahekLakhwani/MahekLakhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the first-year student of Computer Science Engineering passionate about coding, learning new technologies, and building projects.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 First-year Computer Science Engineering student
+- 💻 Interested in programming, software development, and problem-solving
+- 🚀 Eager to grow my skills and contribute to open-source projects
+- 🌱 Currently learning data structures, algorithms, and web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I’m working on
+- Personal projects to strengthen coding skills
+- Exploring various programming languages and frameworks
+- Open to collaborating on beginner-friendly projects
+
+## Get in Touch
+- 📫 Reach me at: [your-email@example.com] (replace with your actual email)
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/maheklakhwani) (if you have one)
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to check out my repositories and reach out.
