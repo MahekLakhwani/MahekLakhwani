@@ -31,7 +31,7 @@
 #### Languages & Fundamentals:
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![C,C++](https://img.shields.io/badge/-C,C++-00599C?style=for-the-badge&logo=C,C++&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5/CSS-E34F26?logo=html5/CSS&logoColor=white&style=for-the-badge)
 ![AI](https://img.shields.io/badge/-AI-1572B6?logo=AI&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-1572B6?logo=Java&logoColor=white&style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/-PowerBI-1572B6?logo=PowerBI&logoColor=white&style=for-the-badge)
