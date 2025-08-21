@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahek Lakhwani</h1>
-<h3 align="center">A passionate learner, coder, and future tech innovator</h3>
+<h3 align="center">A passionate learner , coder and future tech innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=💡+Engineering+Student+%7C+CSE;👩‍💻+Aspiring+Full-Stack+Developer;📚+Lifelong+Learner+%7C+Problem+Solver;🚀+Exploring+AI%2C+Cloud%2C+and+Web+Dev!" alt="Typing SVG" />
@@ -69,13 +69,13 @@
 
 ### 💬 Quote I Live By
 
-> _"Don't limit your challenges. Challenge your limits."_ 🚀
+> _"Don't limit your challenges . Challenge your limits."_ 🚀
 
 ---
 
 ### 📌 Fun GitHub Fact
 > **Code is poetry written in logic !**
->  I'm not just pushing code — I'm pushing boundaries. Let's build something amazing!
+>  I'm not just pushing code — I'm pushing boundaries . Let's build something amazing !
 
 ---
 
